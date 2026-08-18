@@ -1,6 +1,6 @@
 # Atividades de Interface - React Native
 
-Repositório com as interfaces desenvolvidas para a disciplina de Mobile da UCB. O foco da atividade foi praticar construção de layouts e Flexbox utilizando React Native e Expo.
+Repositório com as interfaces desenvolvidas para a disciplina de Programação de App. O foco da atividade foi praticar construção de layouts e Flexbox utilizando React Native e Expo.
 
 ## 📱 Telas Desenvolvidas
 
