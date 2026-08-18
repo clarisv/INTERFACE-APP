@@ -8,15 +8,7 @@ import {
   StyleSheet,
 } from 'react-native';
 
-// Salve a imagem do personagem em: ./assets/personagem.png
 const PERSONAGEM = require('./assets/personagem.png');
-
-// ============================================================
-// JOGO DA VELHA — tema teal/creme (baseado no print enviado)
-// Adiciona: placar por jogador, indicador de vez animado por
-// destaque, histórico de "melhor de 5" com bolinhas, e
-// mensagem de vitória/empate.
-// ============================================================
 
 type Celula = 'X' | 'O' | null;
 
