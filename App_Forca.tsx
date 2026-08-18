@@ -8,11 +8,6 @@ import {
   StyleSheet,
 } from 'react-native';
 
-// ============================================================
-// JOGO DA FORCA — visual moderno, mesma paleta do Jogo da Velha
-// (teal / creme / dourado)
-// ============================================================
-
 const PALAVRA = 'REACT'; // troque pela palavra que quiser
 const MAX_ERROS = 6;
 const ALFABETO = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
