@@ -9,15 +9,6 @@ import {
   StatusBar,
 } from 'react-native';
 
-// ============================================================
-// ATIVIDADE — Tela de 4 quadrantes coloridos, cada um com o
-// personagem correspondente e o nome embaixo.
-//
-// Salve as imagens na pasta assets com estes nomes exatos:
-// ./assets/luffy.jpg  ./assets/zoro.jpg
-// ./assets/nami.jpg   ./assets/sanji.jpg
-// ============================================================
-
 type Quadrante = {
   imagem: any;
   label: string;
