@@ -8,7 +8,7 @@ import {
   StyleSheet,
 } from 'react-native';
 
-const PALAVRA = 'REACT'; // troque pela palavra que quiser
+const PALAVRA = 'REACT'; 
 const MAX_ERROS = 6;
 const ALFABETO = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
